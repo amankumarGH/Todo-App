@@ -40,5 +40,5 @@ component-based architecture, and scalable folder structure.
 
 
 # 🙋‍♂️ Author<br/>
-Aman Kumar<br/>
--GitHub Profile<br/>
+##Aman Kumar<br/>
+##GitHub Profile<br/>
