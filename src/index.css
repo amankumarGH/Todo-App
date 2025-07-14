@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  width: 100%;
+}
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(41, 42, 42);
+  color: rgb(244, 237, 237);
+  width: 100%;
+}
