@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-# 📝 Notes Taking Application (with Redux Toolkit)
+# 📝 Note-Taking Application (with Redux Toolkit)
 
 A fully functional Todo App built using **React** and **Redux Toolkit** for state management.
 This project showcases modern front-end practices including Redux, 
