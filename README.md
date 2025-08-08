@@ -1,13 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
 # 📝 Note-Taking Application (with Redux Toolkit)
 
 A fully functional Todo App built using **React** and **Redux Toolkit** for state management.
@@ -41,4 +31,4 @@ component-based architecture, and scalable folder structure.
 
 # 🙋‍♂️ Author<br/>
 ## Aman Kumar<br/>
-## [GitHub Profile]:(https://github.com/amankumarGH)<br/>
+## [GitHub Profile](https://github.com/amankumarGH)<br/>
